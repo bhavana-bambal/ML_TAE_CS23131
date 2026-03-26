@@ -1,6 +1,6 @@
 # ML_TAE_CS23131
 #  Healthcare Cost Prediction
-## 📌 Project
+##  Project
 This project predicts healthcare costs using machine learning based on patient data like age, medical condition, and hospital stay.
 ##  Dataset
 * Healthcare dataset (~55,000 records)
